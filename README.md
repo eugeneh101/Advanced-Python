@@ -11,12 +11,12 @@ Well, if you are reading this notebook for the right reasons, you'll be a __cert
 
 # Why Python?
 Python takes a Multi-paradigm approach:
-* Procedural programming: C, Rust, Cython
-* Object-oriented data modelling (OOP): Java, C#, Eiffel
-* Computational pipeline modelling (Functional Programming): Haskell, Scala, Clojure, F#
-* Array-oriented data processing: MATLAB/Octave, Julia, R
-* Event driven programming (async): JavaScript, Go, Erlang, Elixir
 * Pragmatic problem solving: Lua, PHP, Perl
+* Procedural programming: C, Rust, Cython
+* Object-oriented programming: Java, C#, Eiffel
+* Functional programming: Haskell, Scala, Clojure, F#
+* High performance with parallel/array-oriented processing: MATLAB/Octave, Julia, R, Rust, Go
+* Event-driven programming (async): JavaScript, Go, Erlang, Elixir
 
 
 
