@@ -20,6 +20,23 @@ Python takes a Multi-paradigm approach:
 
 
 
+Other testimonials:
+"It is the most frequently taught first language at universities nowadays, it is number one in the statistical domain, number one in AI programming, number one in scripting and number one in writing system tests. Besides this, Python is also leading in web programming and scientific computing (just to name some other domains). In summary, Python is everywhere." <br>  
+
+"There are several reasons for Python's rapid rise, bloom, and dominance in multiple domains, including web development, scientific computing, testing, data science, machine learning, and more. The reasons include its readable and maintainable code; extensive support for third-party integrations and libraries; modular, dynamic, and portable structure; flexible programming; learning ease and support; user-friendly data structures; productivity and speed; and, most important, community support. The diverse application of Python is a result of its combined features, which give it an edge over other languages." <br>  
+
+"Very few languages can match Python's ability to conform to a developer's coding style rather than forcing him or her to code in a particular way. Python lets more advanced developers use the style they feel is best suited to solve a particular problem." <br>  
+
+TLDR: high level qualities of Python:  
+* Ease of learning  
+* Economy of expression  
+* Readability and beauty  
+* Batteries included  
+* Rapid development cycle  
+* Interactive prompt  
+* One way to do it  
+
+
 Guido van Rossum (retired Benevolent Dictator for Life [BFDL]) emphasizes readability over speed. Here's some other fundamental core tenets of Python.  
 ```python
 import this
