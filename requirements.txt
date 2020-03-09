@@ -3,12 +3,3 @@ matplotlib
 pandas
 toolz
 tqdm
-
-# should already be installed
-collections
-functools
-inspect
-keyword
-os
-pdb
-time
