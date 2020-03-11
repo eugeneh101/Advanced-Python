@@ -72,4 +72,4 @@ from __future__ import braces
 
 # Don't Just Listen, Show Me the Code
 Go to mybinder.org and copy+paste this repo url (https://github.com/eugeneh101/advanced_python) into "GitHub repository name or URL". mybinder.org allows you to run Jupyter Notebooks for any repo for free!
-<p align="center"><img src="images/mybinder_instruction.jpg" width="800" alt="free software!"></p>
+<p align="center"><img src="images/mybinder_screenshot.jpg" width="800" alt="free software!"></p>
