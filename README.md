@@ -16,7 +16,7 @@ Python takes a Multi-paradigm approach:
 * Object-oriented programming: Java, C#, Eiffel
 * Functional programming: Haskell, Scala, Clojure, F#
 * High performance with parallel/array-oriented processing: MATLAB/Octave, Julia, R, Rust, Go
-* Event-driven programming (async): JavaScript, Go, Erlang, Elixir
+* Asynchronous/Event-driven programming: JavaScript, Go, Erlang, Elixir
 
 
 
@@ -67,3 +67,9 @@ import this
 from __future__ import braces
 # SyntaxError: not a chance
 ```
+
+
+
+# Don't Just Listen, Show Me the Code
+Go to mybinder.org and copy+paste this repo url (https://github.com/eugeneh101/advanced_python) into "GitHub repository name or URL". mybinder.org allows you to run Jupyter Notebooks for any repo for free!
+<p align="center"><img src="images/mybinder_instruction.jpg" width="800" alt="free software!"></p>
