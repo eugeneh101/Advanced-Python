@@ -3,5 +3,6 @@ fluentpy
 ipdb
 matplotlib
 pandas
+pytest
 toolz
 tqdm
