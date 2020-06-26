@@ -74,3 +74,81 @@ from __future__ import braces
 Go to https://mybinder.org and copy+paste this repo url (https://github.com/eugeneh101/advanced_python) into "GitHub repository name or URL". Or you can simply click on this link: https://mybinder.org/v2/gh/eugeneh101/advanced_python/master  
 mybinder.org allows you to run Jupyter Notebooks for any repo for free!
 <p align="center"><img src="images/mybinder_screenshot.jpg" width="800" alt="free software!"></p>
+
+
+
+# Spoilers
+Here's a sneek peek of topics covered in each notebook. If you see a topic that you want to especially learn, just jump to that notebook!  
+<br>
+<b>1_Pragmatic_Python.ipynb</b>: Quickstart Guide to Writing Idiomatic Python
+* `enumerate/zip`
+* Ternary operators
+* Practical Object-Oriented Programming
+* Practical Functional Programming
+    * Lambda functions
+    * `map/filter/reduce`
+* Generators/lazy iterables
+* `*args/**kwargs`
+* Decorators
+* Helpful libraries
+
+<b>2_Procedural_Python.ipynb</b>: Mastering control flow
+* Difference between expression and statement  
+* `pass/break/continue`
+* `if/elif/else` construct
+* `for/else` construct
+* `while/else` construct
+* `try/except/else/finally` construct
+* case/switch statement in Python
+
+<b>3_Object_Oriented_Python.ipynb</b>: Deep Dive into Object-Oriented Programming
+* Class/object/method/attribute
+* Methods types
+    * Instance method
+    * Class method
+    * Static method
+* Similarities between a module and a class
+* Classic classes vs new-style classes
+* `@property`: accessor (getter) and mutator (setter)
+* Fluent interface
+* Magic/dunder methods
+* Inheritance
+    * `super()`
+    * Advanced Inheritance Topics
+
+<b>4_Functional_Python.ipynb</b>: Deep Dive into Functional Programming
+* `map/filter/reduce` + `starmap`
+* Method chaining + functional programming
+* Immutability (and copying)
+* Pure functions
+* High-order functions
+* Decorator deep dive
+    * `*args/**kwargs`
+    * `@wraps`
+    * Decorator on top of decorator
+    * Decorator with arguments
+* Functions are first class
+* Caching
+* Currying
+* Partial Functions
+
+<b>5_High_Performance_Python.ipynb</b>: Writing Performant Python at Scale
+* Multithreading (concurrency)
+* Multiprocessing (parallelism)
+* Event-driven/asynchronous programming
+    * Coroutines
+* Dask/Spark
+* Vectorization/SIMD parallelization
+* Big O notation: runtime and space complexity
+
+<b>6_Pedantic_Python_Tricks.ipynb</b>: Extra Tricks of the Trade
+* Name binding
+    * Tuple unpacking
+    * Multiple assignment
+* Multiple comparison
+* Short ciruiting with `and` + `or`
+* Variable scoping/namespace: LEGB rule
+* (Re)assignment with `intern` and `global`
+* `exec` and `eval`
+* Multiple imports
+* Style guide: PEP8
