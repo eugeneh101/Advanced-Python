@@ -123,6 +123,7 @@ Here's a sneek peek of topics covered in each notebook. If you see a topic that 
 * Pure functions
 * High-order functions
 * Decorator deep dive
+    * Closure
     * `*args/**kwargs`
     * `@wraps`
     * Decorator on top of decorator
