@@ -87,7 +87,7 @@ Here's a sneek peek of topics covered in each notebook. If you see a topic that 
 * Practical Functional Programming
     * Lambda functions
     * `map/filter/reduce`
-* Generators/lazy iterables
+* Generators/lazy iterators
 * `*args/**kwargs`
 * Decorators
 * Helpful libraries
@@ -118,7 +118,7 @@ Here's a sneek peek of topics covered in each notebook. If you see a topic that 
 
 <b>4_Functional_Python.ipynb</b>: Deep Dive into Functional Programming
 * `map/filter/reduce` + `starmap`
-* Method chaining + functional programming
+* Functional programming + method chaining
 * Immutability (and copying)
 * Pure functions
 * High-order functions
@@ -134,13 +134,13 @@ Here's a sneek peek of topics covered in each notebook. If you see a topic that 
 * Partial Functions
 
 <b>5_High_Performance_Python.ipynb</b>: Writing Performant Python at Scale
+* Big O notation: runtime and space complexity
+* Vectorization/SIMD parallelization
 * Multithreading (concurrency)
 * Multiprocessing (parallelism)
 * Event-driven/asynchronous programming
     * Coroutines
-* Dask/Spark
-* Vectorization/SIMD parallelization
-* Big O notation: runtime and space complexity
+* MapReduce/Spark/Dask
 
 <b>6_Pedantic_Python_Tricks.ipynb</b>: Extra Tricks of the Trade
 * Name binding
@@ -149,7 +149,7 @@ Here's a sneek peek of topics covered in each notebook. If you see a topic that 
 * Multiple comparison
 * Short ciruiting with `and` + `or`
 * Variable scoping/namespace: LEGB rule
-* (Re)assignment with `intern` and `global`
+* (Re)assignment with `global` and `nonlocal`
 * `exec` and `eval`
 * Multiple imports
 * Style guide: PEP8
