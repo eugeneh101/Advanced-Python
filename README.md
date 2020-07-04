@@ -82,6 +82,7 @@ Here's a sneek peek of topics covered in each notebook. If you see a topic that 
 <br>
 <b>1_Pragmatic_Python.ipynb</b>: Quickstart Guide to Writing Idiomatic Python
 * `enumerate/zip`
+* Versatility of `dict`s
 * Ternary operators
 * Practical Object-Oriented Programming
 * Practical Functional Programming
