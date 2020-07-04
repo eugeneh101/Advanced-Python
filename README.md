@@ -145,12 +145,28 @@ Here's a sneek peek of topics covered in each notebook. If you see a topic that 
 
 <b>6_Pedantic_Python_Tricks.ipynb</b>: Extra Tricks of the Trade
 * Name binding
+    * Reference counting
     * Tuple unpacking
     * Multiple assignment
+    * Tuple unpacking + multiple assignment
+    * Accidentally overwriting a built-in
 * Multiple comparison
 * Short ciruiting with `and` + `or`
 * Variable scoping/namespace: LEGB rule
 * (Re)assignment with `global` and `nonlocal`
 * `exec` and `eval`
-* Multiple imports
-* Style guide: PEP8
+* Don't fear importing a module multiple times
+* Pythonic Syntax
+    * String interpolation
+    * Context manager
+    * Implicit line concatenation and implicit string concatenation
+    * Trailing comma
+    * PEP8: Python's style guide
+* Extra Fun Details
+    * Specification vs implementation
+    * Interpreted vs compiled
+    * Dynamically typed vs statically typed
+    * Strongly typed vs weakly typed
+    * Pass by object
+* Not (really) one way to do it
+* New features: looking into the future
