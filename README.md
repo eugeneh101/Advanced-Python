@@ -92,6 +92,12 @@ Here's a sneek peek of topics covered in each notebook. If you see a topic that 
 * `*args/**kwargs`
 * Decorators
 * Helpful libraries
+* Pythonic syntax
+    * String interpolation
+    * Context manager
+    * Implicit line concatenation and implicit string concatenation
+    * Trailing comma
+    * PEP8: Python's style guide
 
 <b>2_Procedural_Python.ipynb</b>: Mastering control flow
 * Difference between expression and statement  
@@ -157,12 +163,6 @@ Here's a sneek peek of topics covered in each notebook. If you see a topic that 
 * (Re)assignment with `global` and `nonlocal`
 * `exec` and `eval`
 * Don't fear importing a module multiple times
-* Pythonic Syntax
-    * String interpolation
-    * Context manager
-    * Implicit line concatenation and implicit string concatenation
-    * Trailing comma
-    * PEP8: Python's style guide
 * Extra Fun Details
     * Specification vs implementation
     * Interpreted vs compiled
