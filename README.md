@@ -115,7 +115,8 @@ Here's a sneek peek of topics covered in each notebook. If you see a topic that 
 * Magic/dunder methods
 * Inheritance
     * `super()`
-    * Advanced Inheritance Topics
+    * Advanced inheritance topics
+    * Advanced OOP tricks
 
 <b>4_Functional_Python.ipynb</b>: Deep Dive into Functional Programming
 * `map/filter/reduce` + `starmap`
