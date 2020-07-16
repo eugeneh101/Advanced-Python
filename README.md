@@ -99,7 +99,7 @@ Here's a sneek peek of topics covered in each notebook. If you see a topic that 
     * Trailing comma
     * PEP8: Python's style guide
 
-<b>2_Procedural_Python.ipynb</b>: Mastering control flow
+<b>2_Procedural_Python.ipynb</b>: Mastering Control Flow
 * Difference between expression and statement  
 * `pass/break/continue`
 * `if/elif/else` construct
@@ -139,7 +139,7 @@ Here's a sneek peek of topics covered in each notebook. If you see a topic that 
 * Functions are first class
 * Caching
 * Currying
-* Partial Functions
+* Partial functions
 
 <b>5_High_Performance_Python.ipynb</b>: Writing Performant Python at Scale
 * Big O notation: runtime and space complexity
@@ -160,10 +160,11 @@ Here's a sneek peek of topics covered in each notebook. If you see a topic that 
 * Multiple comparison
 * Short ciruiting with `and` + `or`
 * Variable scoping/namespace: LEGB rule
+    * One value for a given variable name in a given namespace
 * (Re)assignment with `global` and `nonlocal`
 * `exec` and `eval`
 * Don't fear importing a module multiple times
-* Extra Fun Details
+* Extra fun details
     * Specification vs implementation
     * Interpreted vs compiled
     * Dynamically typed vs statically typed
