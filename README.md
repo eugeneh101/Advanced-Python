@@ -84,6 +84,9 @@ Here's a sneek peek of topics covered in each notebook. If you see a topic that 
 * `enumerate/zip`
 * Versatility of `dict`s
 * Ternary operators
+* List comprehension
+    * Nested comprehension and double list comprehension
+    * Dict, set, and tuple comprehension
 * Practical Object-Oriented Programming
 * Practical Functional Programming
     * Lambda functions
