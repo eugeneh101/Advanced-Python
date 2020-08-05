@@ -142,6 +142,7 @@ Here's a sneek peek of topics covered in each notebook. If you see a topic that 
 * Caching
 * Currying
 * Partial functions
+* Function Composition
 
 <b>5_High_Performance_Python.ipynb</b>: Writing Performant Python at Scale
 * Big O notation: runtime and space complexity
