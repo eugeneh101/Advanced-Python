@@ -80,12 +80,14 @@ Go to https://mybinder.org and copy+paste this repo url (https://github.com/euge
 Here's a sneek peek of topics covered in each notebook. If you see a topic that you want to especially learn, just jump to that notebook!  
 <br>
 <b>1_Pragmatic_Python.ipynb</b>: Quickstart Guide to Writing Idiomatic Python
-* `enumerate/zip`
-* Versatility of `dict`s
-* Ternary operators
-* List comprehension
-    * Nested comprehension and double list comprehension
-    * Dict, set, and tuple comprehension
+* Warmups
+    * `enumerate/zip`
+    * Versatility of `dict`s
+    * Ternary operators
+    * List comprehension
+        * Nested comprehension and double list comprehension
+        * Dict, set, and tuple comprehension
+    * `try/except`
 * Practical Object-Oriented Programming
 * Practical Functional Programming
     * Lambda functions
