@@ -110,7 +110,7 @@ Here's a sneek peek of topics covered in each notebook. If you see a topic that 
 * `for/else` construct
 * `while/else` construct
 * `try/except/else/finally` construct
-    * Context manager
+    * Context manager with `try/finally`
 * case/switch statement in Python
 
 <b>3_Object_Oriented_Python.ipynb</b>: Deep Dive into Object-Oriented Programming
@@ -119,11 +119,19 @@ Here's a sneek peek of topics covered in each notebook. If you see a topic that 
     * Instance method
     * Class method
     * Static method
+* Attribute types
+    * Instance attribute
+    * Class attribute
 * Similarities between a module and a class
 * Classic classes vs new-style classes
 * `@property`: accessor (getter) and mutator (setter)
 * Fluent interface
-* Magic/dunder methods
+* Python's data model: magic/dunder methods
+    * Objects are really dictionaries underneath
+    * Method overriding
+    * Operator overloading
+    * Making an instance callable
+    * Context manager with `__enter__/__exit__`
 * Inheritance
     * `super()`
     * Advanced inheritance topics
