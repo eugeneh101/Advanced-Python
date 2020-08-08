@@ -110,6 +110,7 @@ Here's a sneek peek of topics covered in each notebook. If you see a topic that 
 * `for/else` construct
 * `while/else` construct
 * `try/except/else/finally` construct
+    * Context manager
 * case/switch statement in Python
 
 <b>3_Object_Oriented_Python.ipynb</b>: Deep Dive into Object-Oriented Programming
