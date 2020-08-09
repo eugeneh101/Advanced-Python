@@ -133,7 +133,7 @@ Here's a sneek peek of topics covered in each notebook. If you see a topic that 
     * Making an instance callable
     * Context manager with `__enter__/__exit__`
 * Inheritance
-    * `super()`
+    * `super()` for extending a parent class's method
     * Advanced inheritance topics
     * Advanced OOP tricks
 
