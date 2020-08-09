@@ -177,6 +177,7 @@ Here's a sneek peek of topics covered in each notebook. If you see a topic that 
     * One value for a given variable name in a given namespace
 * (Re)assignment with `global` and `nonlocal`
 * `exec` and `eval`
+* Don't use mutable default arguments
 * Don't fear importing a module multiple times
 * Extra fun details
     * Specification vs implementation
