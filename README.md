@@ -93,6 +93,9 @@ Here's a sneek peek of topics covered in each notebook. If you see a topic that 
     * Lambda functions
     * `map/filter/reduce`
 * Generators/lazy iterators
+    * Generator expressions
+    * Generator functions
+    * Infinite generators
 * `*args/**kwargs`
 * Decorators
 * Helpful libraries
