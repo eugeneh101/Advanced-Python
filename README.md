@@ -152,11 +152,14 @@ Here's a sneek peek of topics covered in each notebook. If you see a topic that 
     * `@wraps`
     * Decorator on top of decorator
     * Decorator with arguments
-* Functions are first class
-* Caching
-* Currying
-* Partial functions
-* Function Composition
+* Recursion
+    * Tail call optimization's duality to iteration
+* Additional Topics
+    * Functions are first class
+    * Caching
+    * Currying
+    * Partial functions
+    * Function Composition
 
 <b>5_High_Performance_Python.ipynb</b>: Writing Performant Python at Scale
 * Big O notation: runtime and space complexity
