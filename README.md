@@ -71,7 +71,7 @@ from __future__ import braces
 
 
 # Don't Just Listen, Show Me the Code
-Go to https://mybinder.org and copy+paste this repo url (https://github.com/eugeneh101/advanced_python) into "GitHub repository name or URL". Or you can simply click on this link (https://mybinder.org/v2/gh/eugeneh101/advanced_python/master) or this neat button ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eugeneh101/advanced_python/master?urlpath=lab)). mybinder.org allows you to run Jupyter Notebooks for any repo for free!  
+mybinder.org allows you to run Jupyter Notebooks for any repo for free! Go to https://mybinder.org and copy+paste this repo url (https://github.com/eugeneh101/advanced_python) into "GitHub repository name or URL". Or you can simply click on this link (https://mybinder.org/v2/gh/eugeneh101/advanced_python/master) or this neat button ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eugeneh101/advanced_python/master). If you prefer JupyterLab instead of Jupyter Notebook, then go to this click: https://mybinder.org/v2/gh/eugeneh101/advanced_python/master?urlpath=lab
 <p align="center"><img src="images/mybinder_screenshot.jpg" width="800" alt="free software!"></p>
 
 
