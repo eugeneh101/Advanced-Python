@@ -133,6 +133,7 @@ Here's a sneek peek of topics covered in each notebook. If you see a topic that 
     * Objects are really dictionaries underneath
     * Method overriding
     * Operator overloading
+    * Reflected Arithmetic Operators
     * Making an instance callable
     * Context manager with `__enter__/__exit__`
 * Inheritance
