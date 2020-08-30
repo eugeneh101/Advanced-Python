@@ -17,18 +17,17 @@ Python takes a Multi-paradigm approach:
 * Functional programming: Haskell, Scala, Clojure, F#
 * High performance with parallel/array-oriented processing: MATLAB/Octave, Julia, R, Rust, Go
 * Asynchronous/Event-driven programming: JavaScript, Go, Erlang, Elixir
+<br><br>
 
 
-
-Other testimonials:  
-"It is the most frequently taught first language at universities nowadays, it is number one in the statistical domain, number one in AI programming, number one in scripting and number one in writing system tests. Besides this, Python is also leading in web programming and scientific computing (just to name some other domains). In summary, Python is everywhere."
-
-"There are several reasons for Python's rapid rise, bloom, and dominance in multiple domains, including web development, scientific computing, testing, data science, machine learning, and more. The reasons include its readable and maintainable code; extensive support for third-party integrations and libraries; modular, dynamic, and portable structure; flexible programming; learning ease and support; user-friendly data structures; productivity and speed; and, most important, community support. The diverse application of Python is a result of its combined features, which give it an edge over other languages."
-
-"Very few languages can match Python's ability to conform to a developer's coding style rather than forcing him or her to code in a particular way. Python lets more advanced developers use the style they feel is best suited to solve a particular problem."
+Testimonials:
+* "It is the most frequently taught first language at universities nowadays, it is number one in the statistical domain, number one in AI programming, number one in scripting and number one in writing system tests. Besides this, Python is also leading in web programming and scientific computing (just to name some other domains). In summary, Python is everywhere."
+* "There are several reasons for Python's rapid rise, bloom, and dominance in multiple domains, including web development, scientific computing, testing, data science, machine learning, and more. The reasons include its readable and maintainable code; extensive support for third-party integrations and libraries; modular, dynamic, and portable structure; flexible programming; learning ease and support; user-friendly data structures; productivity and speed; and, most important, community support. The diverse application of Python is a result of its combined features, which give it an edge over other languages."
+* "Very few languages can match Python's ability to conform to a developer's coding style rather than forcing him or her to code in a particular way. Python lets more advanced developers use the style they feel is best suited to solve a particular problem."
+<br><br>
 
 
-TLDR: high level qualities of Python:
+**TLDR**: high level qualities of Python:
 * Ease of learning
 * Economy of expression
 * Readability and beauty
@@ -36,9 +35,10 @@ TLDR: high level qualities of Python:
 * Rapid development cycle
 * Interactive prompt
 * One way to do it
+<br><br>
 
 
-Guido van Rossum (retired Benevolent Dictator for Life [BFDL]) emphasizes readability over speed. Here's some other fundamental core tenets of Python.  
+Guido van Rossum (retired Benevolent Dictator for Life [BFDL]) emphasizes readability. Here's some other fundamental core tenets of Python.  
 ```python
 import this
 # The Zen of Python, by Tim Peters
@@ -68,13 +68,13 @@ import this
 from __future__ import braces
 # SyntaxError: not a chance
 ```
-
+<br>
 
 
 # Don't Just Listen, Show Me the Code
 mybinder.org allows you to run Jupyter Notebooks for any repo for free! Go to https://mybinder.org and copy+paste this repo url (https://github.com/eugeneh101/advanced_python) into "GitHub repository name or URL". Or you can simply click on this link (https://mybinder.org/v2/gh/eugeneh101/advanced_python/master) or this neat button ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eugeneh101/advanced_python/master). If you prefer JupyterLab instead of Jupyter Notebook, then go to this click: https://mybinder.org/v2/gh/eugeneh101/advanced_python/master?urlpath=lab
 <p align="center"><img src="images/mybinder_screenshot.jpg" width="800" alt="free software!"></p>
-
+<br>
 
 
 # Spoilers
@@ -160,14 +160,14 @@ Here's a sneek peek of topics covered in each notebook. If you see a topic that 
 * Academic FP topics
     * Currying
     * Partial functions
-    * Function Composition
+    * Function composition
 * Topics specific to Python's functions
     * Functions are first class
     * Caching
 * Combining FP with OOP and Procedural
     * Functional programming + method chaining/fluent interface
     * `singledispatch()`
-    * Infinite Recursion Depth
+    * Infinite recursion depth
 
 **5_High_Performance_Python.ipynb**: Writing Performant Python at Scale
 * Big O notation: runtime and space complexity
