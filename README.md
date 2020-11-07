@@ -126,15 +126,15 @@ Here's a sneek peek of topics covered in each notebook. If you see a topic that 
 * Attribute types
     * Instance attribute
     * Class attribute
-* Similarities between a module and a class
 * Classic classes vs new-style classes
+* Similarities between a module and a class
 * `@property`: accessor (getter) and mutator (setter)
 * Fluent interface
 * Python's data model: magic/dunder methods
     * Objects are really dictionaries underneath
     * Method overriding
     * Operator overloading
-    * Reflected Arithmetic Operators
+    * Reflected arithmetic operators
     * Making an instance callable
     * Context manager with `__enter__/__exit__`
 * Inheritance
