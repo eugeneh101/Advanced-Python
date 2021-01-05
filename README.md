@@ -170,13 +170,20 @@ Here's a sneek peek of topics covered in each notebook. If you see a topic that 
     * Infinite recursion depth
 
 **5_High_Performance_Python.ipynb**: Writing Performant Python at Scale
+* Debunking the "slow" Python myth
 * Big O notation: runtime and space complexity
+    * Time complexity of data structures
+    * Time complexity of algorithms
 * Vectorization/SIMD parallelization
 * Multithreading (concurrency)
 * Multiprocessing (parallelism)
+    * Sound impressive while writing very little code
+    * Advanced `multiprocessing` arguments
+    * Multiprocessing summary and last thoughts
 * Event-driven/asynchronous programming
     * Coroutines
 * MapReduce/Spark/Dask
+* Ray
 
 **6_Pedantic_Python_Tricks.ipynb**: Extra Tricks of the Trade
 * Name binding
