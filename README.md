@@ -99,6 +99,7 @@ Here's a sneek peek of topics covered in each notebook. If you see a topic that 
     * Infinite generators
 * `*args/**kwargs`
 * Decorators
+* Practical Debugging Tricks
 * Helpful libraries
 * Pythonic syntax
     * String interpolation
